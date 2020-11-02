@@ -10,6 +10,6 @@ Update your `.zshrc` file with the following three lines(order matters):
 
 ```bash
 zinit snippet OMZ::lib/git.zsh
-zinit snippet OMZ::lib/theme-and-appearance❯
+zinit snippet OMZ::lib/theme-and-appearance.zsh
 zinit light "tinyRatP/ys"
 ```
